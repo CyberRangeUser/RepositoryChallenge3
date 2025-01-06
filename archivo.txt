@@ -1,8 +1,5 @@
 esto es un texto lo modifico por tercera vez. Y ahora hago cambios por cuarta vez.
 añadiendo una nueva línea de código.
-<<<<<<< HEAD
 estoy añadiendo otra nueva línea de código.
 epaaa
-=======
-estoy añadiendo otra nueva línea de código..
->>>>>>> 070cc5c5cd288fc1d3c5a20f7a21b438b4c4db8b
+añadiendo nuevo código que funciona genial y luego quiero añadirlo al código principal del reto.
